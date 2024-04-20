@@ -12,7 +12,3 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
-
-# Compiled programs
-# Hello World
-projects/hello_world/main
