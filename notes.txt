@@ -1,0 +1,9 @@
+Installing
+    curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+
+Update
+    rustup Update
+
+Uninstall
+    rustup self uninstall
+
