@@ -15,4 +15,4 @@ Cargo.lock
 
 # Compiled programs
 # Hello World
-/projects/hello_world/main
+projects/hello_world/main
