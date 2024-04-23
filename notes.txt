@@ -17,3 +17,11 @@ cargo build - builds binary
 cargo run - runs binary or builds and runs if not built already
 cargo check - checks crate compiles without building
 cargo build --release - builds a release version. This version takes longer to compile, but runs faster.
+
+cargo new [app_name] - creates a new cargo folder with everything I need
+
+let secret_number = rand::thread_rng().gen_range(1..=100); //creates a variable secret number that
+    calls the rand crate and initiallizes a number (thread_rng()), and then sets the range and generates the number 
+
+    //Learn about overflows
+
